@@ -14,13 +14,13 @@ Welcome to the _GitHub repository_ of my **Facebook Login Clone** project! Here 
 <div align="center">
 
 <p style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="facebook" title="#facebook" src="./src/assets/demo.gif" > 
-  <img alt="facebook1" title="#facebook1" src="./src/assets/demo1.gif" > 
+  <img alt="facebook" title="#facebook" src="./src/assets/demo.PNG" > 
+  <img alt="facebook1" title="#facebook1" src="./src/assets/demo1.PNG" > 
 
 </p>
 </div>
 
-This project is a clone of Amazon website and was developed to learn about tailwindcss with ReactJs. 
+This project is a clone of Facebook login and was developed to learn about tailwindcss with ReactJs. 
 
 <br />
 
@@ -54,7 +54,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/paulofelipebrito/AmazonClone
+   git clone https://github.com/paulofelipebrito/FacebookClone
    ```
 2. Install NPM packages
    ```sh
